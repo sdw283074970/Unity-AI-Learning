@@ -16,3 +16,33 @@
 7. 学会将有限状态机`Finite State Machines`(简称`FSM`)应用到`agent`
 8. 学会使用行为树`Behaviour Tree`（简称`BT`）实现`agent`的AI控制
 9. 学会使用基本的目标导向行为计划系统`Goal-oriented Action Planning`（简称`GOAP`）实现`agent`的AI控制
+
+# Introduction
+
+This is a study note for learning how to implement AI behavior in `unity3d`. The preconditions are as follows
+
+1. Solid `.Net` knowledge
+
+2. Solid `C#` programming skills
+
+3. Have studied `unity3d` systematically
+
+By learning this part of the tutorial, you can:
+
+1. Learn to endow the object `agent` in `unity3d` with artificial intelligence (retard) through `C#` script
+
+2. Learn the underlying AI behavior logic
+
+3. Learn the mobile principle of `agent`
+
+4. Learn to use the `NavMesh` system in unity, so as to quickly implement the mobile agent
+
+5. Learn some basic AI behaviors (such as seeking, fleeing, pursuing, wandering, hiding, etc.)
+
+6. Learn to use a single management script `manager` to control the behavior of a group of `agents`
+
+7. Learn to apply `Finite State Machines(FSM)` to `agent`
+
+8. Learn to use `Behavior Tree(BT)` to implement AI control of `agent`
+
+9. Learn to use `Goal-oriented Action Planning(GOAP)` to control `agent` AI
